@@ -1,7 +1,7 @@
-# SimPPL - Social Insights & Media Post Pattern Library
+# Reddis Insights & Data Analysis Dashborad
 
 ## 📝 Description
-SimPPL is a powerful Streamlit-based analytics dashboard for analyzing Reddit posts and extracting meaningful insights. This tool helps you understand posting patterns, content credibility, and topic trends across different subreddits.
+This is a powerful Streamlit-based analytics dashboard for analyzing Reddit posts and extracting meaningful insights. This tool helps you understand posting patterns, content credibility, and topic trends across different subreddits.
 
 ## 🔗 Project Resources
 - [View Demo Video](https://drive.google.com/file/d/1pl_s2kArg87zchSNf3Aex0XVxOK7GxQ0/view?usp=sharing)
@@ -104,8 +104,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋‍♂️ Support
 For support:
 - Create an issue in the repository
-- Contact: YOUR_EMAIL_HERE
-- Project Link: YOUR_PROJECT_LINK_HERE
+- Contact: harshkanani80@gmail.com
 
 ## 🌟 Acknowledgments
 - [Streamlit](https://streamlit.io/)
